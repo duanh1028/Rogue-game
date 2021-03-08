@@ -1,0 +1,8 @@
+﻿  main.cpp
+  XMLHandler.cpp
+D:\ece39595\project\project\XMLHandler.cpp(181,15): warning C4101: 'creature': unreferenced local variable
+D:\ece39595\project\project\XMLHandler.cpp(182,14): warning C4101: 'dungeon': unreferenced local variable
+D:\ece39595\project\project\XMLHandler.cpp(183,11): warning C4101: 'room': unreferenced local variable
+  Generating Code...
+Debug\Sword.obj : warning LNK4042: object specified more than once; extras ignored
+xerces-c_3.lib(xerces-c_3_1.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
